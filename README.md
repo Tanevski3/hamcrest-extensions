@@ -1,5 +1,5 @@
 # Hamcrest Extensions
-Additional set of convenient hamcrest extension. To be used together with http://hamcrest.org/JavaHamcrest/
+An additional set of convenient HAMCREST extension (http://hamcrest.org/JavaHamcrest/)
 
 ## Contact
 
